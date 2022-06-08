@@ -78,7 +78,7 @@ public class Lab01 {
             Double y2 = input.nextDouble();
             Ponto p1 = new Ponto(x1, y1);
             Ponto p2 = new Ponto(x2, y2);
-            System.out.println("Distancia entre os 2 pontos: 5"+p1.getDistancia2Pontos(p2.getX(), p2.getY()));
+            System.out.println("Distancia entre os 2 pontos: 5"+p2.getDistancia2Pontos(p1.getX(), p1.getY()));
        }
 
     }
