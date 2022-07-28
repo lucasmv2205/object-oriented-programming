@@ -1,5 +1,6 @@
 /slides
 .DS_Store
+/extras
 /labs/Lab03/nbproject/private/
 /labs/Lab03/build/
 /labs/Lab04/nbproject/private/
@@ -18,3 +19,6 @@
 /labs/Lab07/nbproject/private/
 /labs/Lab07/build/
 /labs/ClinicaMedica/nbproject/private/
+/labs/arquivos2.0/build/
+/labs/arquivos2.0/dist/
+/labs/arquivos2.0/nbproject/private/
