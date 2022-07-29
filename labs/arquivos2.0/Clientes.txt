@@ -8,3 +8,11 @@ Matheus;159;28/05/1999;hotmail
 Itallo;753;29/05/1999;yahoo
 Guilherme;320;30/05/1999;icloug
 Carol;860;31/05/1999;imail
+Eduardo;100;14/07/1998;@gmail
+Andrei;1000;14/07/1994;@hotmail
+Eduardo;100;14/07/1998;@gmail
+Andrei;1000;14/07/1994;@hotmail
+Julia;1000;14/07/1994;@hotmail
+Eduardo;100;14/07/1998;@gmail
+Andrei;1000;14/07/1994;@hotmail
+Julia;1000;14/07/1994;@hotmail

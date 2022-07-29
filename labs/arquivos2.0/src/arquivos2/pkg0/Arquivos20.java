@@ -33,13 +33,15 @@ public class Arquivos20 {
         //System.out.println(gClientes.listaClientes);
         Cliente a = new Cliente("Eduardo","100","14/07/1998","@gmail");
         Cliente b = new Cliente("Andrei","1000","14/07/1994","@hotmail");
+        Cliente c = new Cliente("Julia","1000","14/07/1994","@hotmail");
         gClientes.listaClientes.add(a);
         gClientes.listaClientes.add(b);
+        gClientes.listaClientes.add(c);
         System.out.println(gClientes.listaClientes.get(2).toCsv());
         for(int i=0; i< gClientes.listaClientes.size(); i++){
                 System.out.println(gClientes.listaClientes.get(i).toCsv());
             }
-        exportarCSV("clientes2.txt");
+        exportarCSV("Clientes.txt");
         //System.out.println("oioio");
     }
     
@@ -75,7 +77,7 @@ public class Arquivos20 {
             }
             writer.flush();
             writer.close();
-            System.out.println("BORAAAAAA");
+            //System.out.println("BORAAAAAA");
         }
         catch(IOException excecao){
             System.out.printf("\n%s Excecao: %s\n", excecao);
